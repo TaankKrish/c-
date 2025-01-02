@@ -8,7 +8,7 @@ int main(){
         char ch='A';
 
         for (int j=1; j<=n; j++) {
-            cout << ch;
+            cout << ch << " ";
             ch+=1;
         }
         
